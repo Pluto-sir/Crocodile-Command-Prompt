@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0.002",
+  "build": 1,
+  "channel": "canary",
+  "download_url": "https://yourdomain.com/crocodile-1.0.0.001.exe",
+  "changelog": "Added uninstall command and update checker."
+}
