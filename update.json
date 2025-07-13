@@ -2,6 +2,6 @@
   "version": "1.0.0.002",
   "build": 1,
   "channel": "canary",
-  "download_url": "https://yourdomain.com/crocodile-1.0.0.001.exe",
+  "download_url": "https://github.com/Pluto-sir/Crocodile-Command-Prompt/releases/tag/v1.0.0.001/crocodile.zip",
   "changelog": "Added uninstall command and update checker."
 }
